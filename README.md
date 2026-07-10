@@ -1,0 +1,2 @@
+# zeta
+Zeta Asistan Yazılımı
